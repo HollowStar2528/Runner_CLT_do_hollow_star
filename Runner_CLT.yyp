@@ -37,6 +37,7 @@
   "name":"Runner_CLT",
   "resources":[
     {"id":{"name":"obj_pag","path":"objects/obj_pag/obj_pag.yy",},},
+    {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},},
     {"id":{"name":"obj_space","path":"objects/obj_space/obj_space.yy",},},
     {"id":{"name":"rm_historia","path":"rooms/rm_historia/rm_historia.yy",},},
     {"id":{"name":"rm_partida","path":"rooms/rm_partida/rm_partida.yy",},},
