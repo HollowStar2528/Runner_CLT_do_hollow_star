@@ -8,8 +8,8 @@
   "name":"obj_musica",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"objetos sem imagem",
+    "path":"folders/Objects/objetos sem imagem.yy",
   },
   "parentObjectId":null,
   "persistent":false,

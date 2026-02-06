@@ -1,4 +1,3 @@
-vspeed = 1;
 if (global.rua = 1)
 {
 	image_xscale = 1;
