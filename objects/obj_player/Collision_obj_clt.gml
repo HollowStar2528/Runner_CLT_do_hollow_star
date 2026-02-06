@@ -1,3 +1,2 @@
-room_restart();
-global.pontos = 0;
+room = rm_end;
 global.dificuldade = 1;
